@@ -1,0 +1,21 @@
+KQL Queries
+
+
+
+This section contains all Microsoft Sentinel (KQL)-based queries.
+Each query includes a brief description, data sources used, and detection logic.
+
+
+
+Categories:
+detections/ — Analytic rules for detecting malicious activity
+threat_hunting/ — Proactive queries to uncover suspicious behavior
+dashboards/ — Visualization queries for monitoring and analysis
+
+
+
+Each .kql file includes:
+
+MITRE ATT&CK mappings (if applicable)
+Query explanation
+Example output or filters for tuning
